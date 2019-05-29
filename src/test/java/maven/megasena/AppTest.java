@@ -37,6 +37,7 @@ public class AppTest
     }
     
     
+    
     public void testNumero()
     {
     	assertTrue(App.getNumero() <= 60);
